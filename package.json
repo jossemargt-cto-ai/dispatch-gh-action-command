@@ -1,0 +1,16 @@
+{
+  "name": "dispath-gh-action-command",
+  "version": "1.0.0",
+  "description": "Testing out cto commands",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@actions/github": "^4.0.0",
+    "@cto.ai/sdk": "^2.4.0"
+  }
+}
